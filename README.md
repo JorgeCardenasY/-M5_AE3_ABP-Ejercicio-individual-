@@ -8,7 +8,8 @@
 Practicar queries.
 Requerimientos
 
-* Crear el siguiente modelo ERD para una base de datos de clientes y pedidos.
+* Crear el siguiente modelo ERD para una base de datos de clientes y pedidos:
+
 +-------------------+         +-------------------+
 |      clientes     |         |      pedidos      |
 +-------------------+         +-------------------+
